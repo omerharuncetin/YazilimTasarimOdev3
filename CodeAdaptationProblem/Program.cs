@@ -6,7 +6,15 @@ namespace CodeAdaptationProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Savastir savastir = new Savastir();
+           savastir.SilahKullan("Tank");
+           savastir.SilahKullan("DusmanRobotu");
+           
+           savastir.Hizlan("Tank");
+           savastir.Hizlan("DusmanRobotu");
+
+           Console.WriteLine(savastir.DusmanAdi("Tank"));
+           Console.WriteLine(savastir.DusmanAdi("DusmanRobotu"));
         }
     }
 }
