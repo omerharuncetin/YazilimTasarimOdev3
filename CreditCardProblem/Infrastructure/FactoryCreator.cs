@@ -1,5 +1,6 @@
 ﻿using System;
 using CreditCardProblem.Data.Interfaces;
+using CreditCardProblem.Data.Models;
 
 namespace CreditCardProblem.Infrastructure
 {

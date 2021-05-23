@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CreditCardProblem.Data.Interfaces
+namespace CreditCardProblem.Data.Models
 {
     public abstract class CreditCard
     {

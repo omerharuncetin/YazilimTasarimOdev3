@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardProblem", "CreditCardProblem\CreditCardProblem.csproj", "{C9A74460-0B80-4303-965B-4DD32138A48F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdaptationProblem", "CodeAdaptationProblem\CodeAdaptationProblem.csproj", "{D1D4F737-4830-490A-A29D-F707C04B0FEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C9A74460-0B80-4303-965B-4DD32138A48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A74460-0B80-4303-965B-4DD32138A48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A74460-0B80-4303-965B-4DD32138A48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D4F737-4830-490A-A29D-F707C04B0FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D4F737-4830-490A-A29D-F707C04B0FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D4F737-4830-490A-A29D-F707C04B0FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D4F737-4830-490A-A29D-F707C04B0FEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

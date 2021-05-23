@@ -1,7 +1,7 @@
 ﻿using System;
-using CreditCardProblem.Data.Interfaces;
+using CreditCardProblem.Data.Models;
 
-namespace CreditCardProblem.Infrastructure
+namespace CreditCardProblem.Data.Interfaces
 {
     public interface ICreditCardFactory
     {
